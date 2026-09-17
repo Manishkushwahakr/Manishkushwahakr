@@ -89,6 +89,7 @@ https://github.com/Manishkushwahakr/vidyaboardapp
 </a>
 </p>
 
+
 ### 🐍 Programming
 
 <p>
@@ -102,6 +103,7 @@ https://github.com/Manishkushwahakr/vidyaboardapp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
 </a>
 </p>
+
 
 ### 🤖 Data Science & AI
 
@@ -123,6 +125,7 @@ https://github.com/Manishkushwahakr/vidyaboardapp
 </a>
 </p>
 
+
 ### 🗄️ Databases
 
 <p>
@@ -136,6 +139,7 @@ https://github.com/Manishkushwahakr/vidyaboardapp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
 </a>
 </p>
+
 
 ### 🔧 Other Tools
 
@@ -153,14 +157,7 @@ https://github.com/Manishkushwahakr/vidyaboardapp
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manishkushwahakr&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkushwahakr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 # 🔥 GitHub Contribution Streak
 
