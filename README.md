@@ -1,25 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 
-<h3 align="center">
-Data Science • AI/ML • Generative AI • Backend Development
-</h3>
+<h3 align="center">Data Science • AI/ML • Generative AI • Backend Development</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udayasharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Udayasharmadev?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Udayasharmadev?label=Stars&style=flat&color=yellow" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/Udayasharmadev/vidyaboardapp?label=Featured%20Project%20Size&style=flat" alt="Project Size" />
+  <img src="https://komarev.com/ghpvc/?username=manishkushwahakr&label=Profile%20Views&color=0e75b6&style=flat" alt="manishkushwahakr" />
+  <img src="https://img.shields.io/github/followers/manishkushwahakr?label=Followers&style=flat" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/manishkushwahakr?label=Stars&style=flat" alt="Stars" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manish-kumar-9a2389307/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-9a2389307/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/manishkushwahakr">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:manishkushwahakr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://kaggle.com/manishkushwahakr" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="Kaggle" />
   </a>
 </p>
 
@@ -27,43 +21,23 @@ Data Science • AI/ML • Generative AI • Backend Development
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science & Engineering — Data Science**
+🎓 Computer Science Engineering student specializing in **Data Science**
 
-💡 Interested in **Data Science, Artificial Intelligence, Machine Learning and Backend Engineering**
+🌱 Currently learning **Data Science and AIML**
 
-🧠 Building applications around **Generative AI, RAG, LLMs and intelligent automation**
+🔭 Currently working on **Mental Health Score**
 
-🐍 Working primarily with **Python, SQL and AI/ML technologies**
+👯 Looking to collaborate on **VidyaBoard**
 
-⚙️ Interested in building **real-world, scalable software and data-driven systems**
+💬 Ask me about **Data Science and AIML**
 
-🌱 Currently improving my skills in **Data Engineering, Cloud and Generative AI**
+📫 Reach me at **[manishkushwahakr@gmail.com](mailto:manishkushwahakr@gmail.com)**
 
-🚀 I enjoy turning ideas into **working products and practical projects**
-
-⚡ Fun fact: **I think more. Build more. Debug more. 😄**
+⚡ Fun fact: **I think more**
 
 ---
 
-## 🔭 What I'm Currently Working On
-
-### 🧠 Mental Health Score
-
-An ML-powered application that analyzes user responses and generates an overall score with insights.
-
-🔗 **Live Demo:**
-https://mansik-santulan-score-1-h71y.onrender.com/
-
-### 📚 VidyaBoard
-
-An educational technology project combining **Smart Board functionality, Virtual Labs and offline-first learning**.
-
-🔗 **Repository:**
-https://github.com/Udayasharmadev/vidyaboardapp
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -71,11 +45,10 @@ https://github.com/Udayasharmadev/vidyaboardapp
 
 ### 🧠 Mental Health Score
 
-Machine-learning based application for analyzing responses and generating an interpretable score.
+Currently working on a machine-learning based project focused on generating a mental health score.
 
-**Tech:** Python • ML • FastAPI • HTML/CSS/JS
-
-🔗 [Live Demo](https://mansik-santulan-score-1-h71y.onrender.com/)
+🔗 **Live Project:**
+https://mansik-santulan-score-1-h71y.onrender.com/
 
 </td>
 
@@ -83,33 +56,10 @@ Machine-learning based application for analyzing responses and generating an int
 
 ### 📚 VidyaBoard
 
-Smart education platform combining virtual experiments, smart-board functionality and offline-first learning.
+An educational technology project that I'm looking to collaborate on and improve.
 
-**Tech:** React Native • Expo • Backend • AI
-
-🔗 [GitHub](https://github.com/Udayasharmadev/vidyaboardapp)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 PatchContext
-
-RAG-based system designed to answer questions using repository history, discussions, issues and developer context.
-
-**Tech:** Python • LangChain • FAISS • RAG • LLM
-
-</td>
-
-<td width="50%">
-
-### 🛒 Taza Taza
-
-Hyperlocal grocery and vegetable delivery platform designed for rural communities.
-
-**Tech:** React • Supabase • PostgreSQL • PWA • Vercel
+🔗 **GitHub Repository:**
+https://github.com/Manishkushwahakr/vidyaboardapp
 
 </td>
 </tr>
@@ -117,44 +67,88 @@ Hyperlocal grocery and vegetable delivery platform designed for rural communitie
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Languages & Tools
 
-## 👨‍💻 Programming
+### ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,sql" />
+<a href="https://aws.amazon.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+</a>
+<a href="https://cloud.google.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="GCP"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
+</a>
+<a href="https://kubernetes.io" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
+</a>
 </p>
 
-## 🤖 AI / Machine Learning / Data Science
+### 🐍 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+</a>
 </p>
 
+### 🤖 Data Science & AI
+
 <p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-Generative%20AI-blueviolet?style=for-the-badge" />
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630630/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+</a>
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="PyTorch"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit Learn"/>
+</a>
+<a href="https://opencv.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45" alt="OpenCV"/>
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+</a>
 </p>
 
-## ⚙️ Backend / Databases
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,mysql,supabase" />
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
+</a>
 </p>
 
-## ☁️ Cloud / DevOps
+### 🔧 Other Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github" />
-</p>
-
-## 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=postman,figma,vscode,github" />
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45" alt="Firebase"/>
+</a>
+<a href="https://postman.com" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
+</a>
 </p>
 
 ---
@@ -162,24 +156,24 @@ Hyperlocal grocery and vegetable delivery platform designed for rural communitie
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Udayasharmadev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udayasharmadev&layout=compact&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manishkushwahakr&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkushwahakr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Udayasharmadev&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkushwahakr" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udayasharmadev&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkushwahakr&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -187,103 +181,106 @@ Hyperlocal grocery and vegetable delivery platform designed for rural communitie
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Udayasharmadev&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manishkushwahakr&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
 
-# 📊 GitHub Profile Summary
+# 📋 GitHub Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udayasharmadev&theme=default" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishkushwahakr&theme=default" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udayasharmadev&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udayasharmadev&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishkushwahakr&theme=default" alt="Repositories Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishkushwahakr&theme=default" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udayasharmadev&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Udayasharmadev&theme=default&utcOffset=5.5" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Udayasharmadev/Udayasharmadev/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manishkushwahakr&theme=default" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishkushwahakr&theme=default&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 ---
 
-# 📌 GitHub Metrics
+# ⭐ GitHub Overview
 
 <p align="center">
 
-<img src="https://img.shields.io/github/public-repositories/Udayasharmadev?style=for-the-badge&logo=github&label=Public%20Repositories" />
+<img src="https://img.shields.io/github/public-repositories/manishkushwahakr?style=for-the-badge&logo=github&label=Public%20Repositories" alt="Public Repositories"/>
 
-<img src="https://img.shields.io/github/followers/Udayasharmadev?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/followers/manishkushwahakr?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
 
-<img src="https://img.shields.io/github/stars/Udayasharmadev?style=for-the-badge&logo=github&label=Stars" />
+<img src="https://img.shields.io/github/stars/manishkushwahakr?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 
 </p>
 
 ---
 
-# 💡 Currently Learning
+# 🐍 My Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manishkushwahakr/manishkushwahakr/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+# 📌 Current Focus
 
 ```text
-Data Engineering
-        ↓
-SQL + Data Pipelines
-        ↓
-Cloud Platforms
-        ↓
+Data Science
+     ↓
 Machine Learning
-        ↓
+     ↓
 Generative AI
-        ↓
-RAG + LLM Applications
+     ↓
+RAG & LLM Applications
+     ↓
+Backend Development
+     ↓
+Data Engineering
+     ↓
+Cloud
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals
 
-* [ ] Strengthen Data Structures & Algorithms
-* [ ] Build production-grade Data Engineering projects
-* [ ] Develop advanced RAG / LLM applications
-* [ ] Improve Cloud & DevOps skills
-* [ ] Contribute to Open Source
-* [ ] Build and deploy more real-world AI products
-* [ ] Grow my GitHub open-source contributions
+* 🚀 Build real-world AI & Data Science projects
+* 🤖 Explore Generative AI and RAG
+* 📊 Improve Data Engineering skills
+* ☁️ Learn Cloud & DevOps
+* 💻 Contribute to Open Source
+* 🔥 Maintain consistent GitHub activity
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/manish-kumar-9a2389307/">
-<img src="https://img.shields.io/badge/LinkedIn-Manish%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-9a2389307/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://www.kaggle.com/manishkushwahakr">
-<img src="https://img.shields.io/badge/Kaggle-Manish%20Kumar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<a href="https://kaggle.com/manishkushwahakr" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle" />
 </a>
 
 <a href="mailto:manishkushwahakr@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </p>
 
+---
+
 <p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
+  <b>⭐ Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
-  <i>Building. Learning. Experimenting. Repeating. 🚀</i>
+  <i>Build • Learn • Experiment • Repeat 🚀</i>
 </p>
