@@ -74,19 +74,24 @@ https://github.com/Manishkushwahakr/vidyaboardapp
 <p>
 <a href="https://aws.amazon.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+  
 </a>
 <a href="https://cloud.google.com" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="GCP"/>
 </a>
+
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
 </a>
+
 <a href="https://kubernetes.io" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45" alt="Kubernetes"/>
 </a>
+
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
 </a>
+
 </p>
 
 
