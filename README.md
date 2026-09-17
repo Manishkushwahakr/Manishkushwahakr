@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkushwahakr&label=Profile%20views&color=0e75b6&style=flat" alt="manishkushwahakr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishkushwahakr" alt="manishkushwahakr" /></a> </p>
-
 - 🔭 I’m currently working on [Mental health Score](https://mansik-santulan-score-1-h71y.onrender.com/)
 
 - 🌱 I’m currently learning **Data Science and AIML**
 
-- 👯 I’m looking to collaborate on [Vidyaboard](https://vidyaboard-app.vercel.app/)
+- 👯 I’m looking to collaborate on [Vidyaboard](https://github.com/Manishkushwahakr/vidyaboardapp)
 
-- 🤝 I’m looking for help with [Vidyaboard](https://vidyaboard-app.vercel.app/)
+- 🤝 I’m looking for help with [Vidyaboard](https://github.com/Manishkushwahakr/vidyaboardapp)
 
 - 💬 Ask me about **Data Science and AIML**
 
