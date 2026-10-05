@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 
-<h3 align="center">Data Science • AI/ML • Generative AI • Backend Development</h3>
+<h3 align="center">Data Analysis • Data Science • AI/ML • Generative AI • Backend Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manishkushwahakr&label=Profile%20Views&color=0e75b6&style=flat" alt="manishkushwahakr" />
